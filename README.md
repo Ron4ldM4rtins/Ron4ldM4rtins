@@ -10,7 +10,7 @@ Civil engineer works with renewable energy. I like coding and technology. First 
 <a href="https://instagram.com/eng_ronald_martins/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ronaldmartins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://discord.com/channels/@me397801804060164096" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-<a href = "mailto:ronaldmgonzaga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> 
+<a href = "mailto:ronaldmgonzaga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <br />
 <hr />
 Many years ago languages ​​have been "influencing" our lives, every day they become more present and necessary. As a civil engineer and a huge noob in programming I believe that, like me, there are other <strong>developer-engineers</strong> out there (or at least some enthusiasts in this niche) who like the idea of ​​having a safe ground to discuss technology applied to the area of ​​renewable energies on a path that is between (i) <i>the superficial approach</i> - a "beginner" approach used by those who become noobs like me and (ii) <i>a more "technical" approach or "hardcore" approach</i> used by "pure" developers.
@@ -41,7 +41,7 @@ Engenheiro civil trabalho com energia renovável. Gosto de codificar e de tecnol
 <a href="https://instagram.com/eng_ronald_martins/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ronaldmartins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://discord.com/channels/@me397801804060164096" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-<a href = "mailto:ronaldmgonzaga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> 
+<a href = "mailto:ronaldmgonzaga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <br />
 <hr />
 A muitos anos as linguagens vem "influenciando" nossas vidas , a cada dia se tornam mais presentes e necessárias. Como um engenheiro civil e um grande noob em programação acredito que, assim como eu, existem outros <strong>engenheiros-desenvolvedores</strong> por aí (ou pelo menos alguns entusiastas desse nicho) que gostam da ideia de ter um terreno seguro para discutir tecnologia aplicada à área de energias renováveis em um caminho que está entre (i) <i>a abordagem superficial</i> - uma abordagem "iniciante" usada por aqueles que se noobs como eu e (ii) <i>uma abordagem mais "técnica" ou abordagem "pesada"</i> usada por desenvolvedores "puros".
